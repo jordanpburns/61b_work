@@ -59,8 +59,16 @@ public class ArrayDeque<T> {
                 System.arraycopy(items, nextFirst + 1, newItems, 0, size);
             }
             else {
-                System.arraycopy(items, nextFirst + 1, newItems, 0, items.length - nextFirst);
-                System.arraycopy(items, 0, newItems, items.length - nextFirst - 1, nextLast);
+                if (nextFirst == items.length - 1) {
+                    System.arraycopy(items, 0, newItems, 0, size);
+                }
+                else if (nextLast == 0) {
+                    System.arraycopy(items, nextFirst + 1, newItems, 0, size);
+                }
+                else {
+                    System.arraycopy(items, nextFirst + 1, newItems, 0, items.length - nextFirst - 1);
+                    System.arraycopy(items, 0, newItems, items.length - nextFirst - 1, nextLast);
+                }
             }
             items = newItems;
             nextFirst = items.length - 1;

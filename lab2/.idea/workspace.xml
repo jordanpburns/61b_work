@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2331f73d-dbda-43f6-a30e-7f9e65978f1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../lab1/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj0/examples/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/examples/StdDraw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj0/examples/StdDrawDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/examples/StdDrawDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj0/examples/StdOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/examples/StdOut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj0/examples/StdRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/examples/StdRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/libraries/algs4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intlist/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/ArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/ArrayDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/ArrayDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/ArrayDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/out/production/proj1a/.ArrayDeque.java.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/out/production/proj1a/ArrayDeque.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/out/production/proj1a/ArrayDeque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/out/production/proj1a/ArrayDequeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/out/production/proj1a/ArrayDequeTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,22 +51,52 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1155382795">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="403" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="403" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DebugPractice/DebugExercise3.java">
+        <entry file="file://$PROJECT_DIR$/Intlist/IntList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="329">
+              <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DebugPractice/foods.csv">
+        <entry file="file://$PROJECT_DIR$/Intlist/IntListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1160" />
+            <state relative-caret-position="67">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -80,6 +111,7 @@
         <option value="$PROJECT_DIR$/DebugPractice/DebugExercise1.java" />
         <option value="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" />
         <option value="$PROJECT_DIR$/DebugPractice/DebugExercise3.java" />
+        <option value="$PROJECT_DIR$/Intlist/IntList.java" />
       </list>
     </option>
   </component>
@@ -95,8 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -119,10 +149,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534285757441" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542312987882" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -139,21 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DebugExercise3">
-    <configuration name="DebugExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugExercise1" />
-      <module name="lab2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DebugExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugExercise2" />
-      <module name="lab2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.IntListTest.testCatenate">
     <configuration name="DebugExercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DebugExercise3" />
       <module name="lab2" />
@@ -161,16 +180,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testCatenate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testCatenate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testDcatenate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testDcatenate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DebugExercise1" />
-      <item itemvalue="Application.DebugExercise2" />
       <item itemvalue="Application.DebugExercise3" />
+      <item itemvalue="JUnit.IntListTest.testList" />
+      <item itemvalue="JUnit.IntListTest" />
+      <item itemvalue="JUnit.IntListTest.testCatenate" />
+      <item itemvalue="JUnit.IntListTest.testDcatenate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntListTest.testCatenate" />
+        <item itemvalue="JUnit.IntListTest.testDcatenate" />
+        <item itemvalue="JUnit.IntListTest" />
+        <item itemvalue="JUnit.IntListTest.testList" />
         <item itemvalue="Application.DebugExercise3" />
-        <item itemvalue="Application.DebugExercise2" />
-        <item itemvalue="Application.DebugExercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -187,35 +248,51 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="IntListTest_testList - 2018.11.15 at 11h 27m 13s.xml">
+      <configuration name="IntListTest.testList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntListTest_testList - 2018.11.15 at 11h 27m 20s.xml">
+      <configuration name="IntListTest.testList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntListTest - 2018.11.15 at 11h 27m 38s.xml">
+      <configuration name="IntListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntListTest_testDcatenate - 2018.11.15 at 11h 37m 53s.xml">
+      <configuration name="IntListTest.testDcatenate" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="737" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32868218" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Style Checker" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32868218" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -274,15 +351,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DebugPractice/foods.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1160" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DebugPractice/DebugExercise3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DebugPractice/foods.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intlist/IntListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intlist/IntList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
         </state>
       </provider>
     </entry>

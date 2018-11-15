@@ -181,5 +181,11 @@ public class ArrayDequeTest {
         a1.addLast(13);
         a1.addFirst(1);
         a1.addFirst(0);
+        while (a1.size() < 100) {
+            a1.addFirst(1);
+        }
+        while (a1.size() > 0) {
+            a1.removeFirst();
+        }
     }
 }
