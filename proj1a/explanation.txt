@@ -1,1 +1,4 @@
 working on this on my own time
+I'm very frustrated that this autograder is making me write this silly test. It would be nice if it was just in the file like in 61A. Oh well, its okay. Alright, now to tell you why I'm submitting late. I had a few family emergencies. Everyone got into a car crash on the same day (that's why I don't drive, amirite?) I don't like cars. Luckily everyone survived but not without a few bumps and bruises. I wish we had comprehensive public transit in the US. And don't get me started on how lacking our public infrastructure is here in California. Yep. Hopefully that's enough.
+
+Jordan
