@@ -1,4 +1,16 @@
-package PACKAGE_NAME;
+public class OffByN implements CharacterComparator{
+    static int n;
 
-public class OffByN {
+    OffByN(int N) {
+        n = N;
+    }
+
+    public boolean equalChars(char x, char y) {
+        if (Math.abs(x - y) != n) {
+            return false;
+        }
+        else {
+            return true;
+        }
+    }
 }

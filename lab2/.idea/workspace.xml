@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2331f73d-dbda-43f6-a30e-7f9e65978f1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab3/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intlist/IntList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj1a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj1a/ArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/ArrayDeque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj1a/ArrayDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/ArrayDequeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj1a/out/production/proj1a/.ArrayDeque.java.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj1a/out/production/proj1a/ArrayDeque.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/out/production/proj1a/ArrayDeque.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj1a/out/production/proj1a/ArrayDequeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/out/production/proj1a/ArrayDequeTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="2331f73d-dbda-43f6-a30e-7f9e65978f1c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +44,7 @@
     <session id="-1155382795">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -70,32 +61,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="403" />
+          <entry key="java" value="441" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="403" />
+          <entry key="JAVA" value="441" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Intlist/IntList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
+            <state relative-caret-position="93">
+              <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Intlist/IntListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="406">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
             </state>
           </provider>
         </entry>
@@ -154,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542312987882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542313017718" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -261,6 +252,18 @@
     <history-entry file="IntListTest_testDcatenate - 2018.11.15 at 11h 37m 53s.xml">
       <configuration name="IntListTest.testDcatenate" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IntListTest_testCatenate - 2018.11.15 at 12h 14m 23s.xml">
+      <configuration name="IntListTest.testCatenate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntListTest_testCatenate - 2018.11.15 at 12h 14m 41s.xml">
+      <configuration name="IntListTest.testCatenate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntListTest_testCatenate - 2018.11.15 at 12h 16m 17s.xml">
+      <configuration name="IntListTest.testCatenate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntListTest_testCatenate - 2018.11.15 at 12h 19m 39s.xml">
+      <configuration name="IntListTest.testCatenate" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="737" extended-state="0" />
@@ -276,8 +279,8 @@
       <window_info anchor="bottom" id="Style Checker" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.63410854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -320,6 +323,12 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Intlist/IntListTest.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -361,17 +370,17 @@
     <entry file="file://$PROJECT_DIR$/DebugPractice/foods.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Intlist/IntListTest.java">
+    <entry file="file://$PROJECT_DIR$/Intlist/IntList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="93">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Intlist/IntList.java">
+    <entry file="file://$PROJECT_DIR$/Intlist/IntListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
+        <state relative-caret-position="406">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
